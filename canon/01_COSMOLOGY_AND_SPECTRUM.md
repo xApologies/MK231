@@ -73,3 +73,11 @@ Realms may have distinct local clocks; they need not be globally synchronized. T
 - Red's elemental color does **not** mean its magic is fire; phoenix fire is a species property, not proof Orange is fire.
 - Starscape dynamic equilibrium does **not** prove an exact algebraic superposition formula.
 - The phrase “singularity” in Black Prophecy is a character/narrative term until Ink specifies its exact mathematics.
+
+## v1.1 — Selected Yellow-neon anomaly and restoration
+
+The author **explicitly selected** MK157's high/displaced Yellow-neon premise for MK231: Yellow abnormality destabilizes a Starscape's White superposition and contributes to Genesis collapse, storms and ELDRIS. No exact neon numbers, root mechanism or repair operator are locked; do not inherit MK157's original resolution scene.
+
+## v1.1 — Independent realm clocks
+
+Each of seven realms has coherent **local temporal continuity** and independent history, but no established shared clock or fixed inter-realm conversion. Kira's personal narrative is linear; all realms keep evolving in her absence. Black existences can have long histories before Kira encounters them. Illustrative **NOT CANON**: Kira age 27 in Book VI, four personal years, 200 years for Leviathan egg in Blue, 15–25-year Kitsune, 57 Green years per White year, 3/7/1.7/200 example rates. Causal consistency and exact correspondences OPEN. Do not silently turn examples into timelines.

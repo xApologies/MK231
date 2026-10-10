@@ -28,3 +28,7 @@ White Book VII: a completed relational union; meaning/stakes OPEN
 **Key distinction:** Causally activating later Black expressions does NOT assert those beings become mature or immediately available for consent in Kira's local time. Their life stages, understanding, free wills, guardians/families and geography matter. The exact mechanism of cross-clock 'becoming' and whether births predate Kira's Binding in another time coordinate remain OPEN. Do not describe a later Black Unicorn birth as canon simply because Kira will bond with one.
 
 **Prologue proposal:** ancient unicorn prophetic utterance following egg creation. The user said “maybe.” Keep PROPOSED until selected. Neither prophecy text nor scene is drafted.
+
+## v1.1 — Independent realm clocks
+
+Each of seven realms has coherent **local temporal continuity** and independent history, but no established shared clock or fixed inter-realm conversion. Kira's personal narrative is linear; all realms keep evolving in her absence. Black existences can have long histories before Kira encounters them. Illustrative **NOT CANON**: Kira age 27 in Book VI, four personal years, 200 years for Leviathan egg in Blue, 15–25-year Kitsune, 57 Green years per White year, 3/7/1.7/200 example rates. Causal consistency and exact correspondences OPEN. Do not silently turn examples into timelines.

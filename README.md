@@ -1,6 +1,6 @@
 # MK231 — The Eight Prophecies of Magic
 
-> **Cumulative live model · MK231 release 1.0.0 · 2026-10-09 · Ink / Pen / Page**
+> **Cumulative live model · MK231 release 1.1.0 · 2026-10-10 · Ink / Pen / Page**
 >
 > **Pen develops. Page preserves. Ink decides.**
 
@@ -10,6 +10,8 @@ MK231 is the **persistent, Git-backed authorial workspace** for the seven-book f
 
 | Need | Read first |
 |---|---|
+| Primary portable chat-thread constitution | [`CONSTITUTION.md`](CONSTITUTION.md) |
+| Semantic reconciliation and remaining gaps | [`provenance/SEMANTIC_RECONCILIATION_v1.1.md`](provenance/SEMANTIC_RECONCILIATION_v1.1.md) |
 | Current canonical state and precedence | [`CURRENT_LIVE_MODEL.md`](CURRENT_LIVE_MODEL.md) |
 | Seven-book story and six Black companion Bonds | [`story/03_SEVEN_BOOKS_AND_COMPANIONS.md`](story/03_SEVEN_BOOKS_AND_COMPANIONS.md) |
 | Eight ancient prophecies | [`canon/02_EIGHT_PROPHECIES_OF_MAGIC.md`](canon/02_EIGHT_PROPHECIES_OF_MAGIC.md) |
@@ -34,7 +36,7 @@ MK231 is the **persistent, Git-backed authorial workspace** for the seven-book f
 | **Six Transduction domains** | Operational taxonomy; neither elemental colors nor the Seven Prophecies |
 | **Seven Foundations / Prophecies** | Fundamental operations and constraints of **magic itself**, not just magic inside the Seven Realms |
 | **Eighth / Black Prophecy** | Foretells Kira’s emergence and union through independent Black companion relationships |
-| **Seven books** | Orange → Green → Red → Violet → Yellow → Blue → White |
+| **Seven books** | Red → Orange → Yellow → Green → Blue → Violet → White (book labels; native realms unchanged) |
 | **Six Black companions** | Phoenix, Kitsune, Dragon, Unicorn, Primordial, Leviathan; companion order in current locked seven-book outline |
 | **Six selected Leviathan forms** | Abyssal Crown, Tidevault, Skyweaver, Stormmantle, Cloudbreaker, Horizon Leviathan / Fractal Spine |
 
@@ -60,3 +62,5 @@ MK231 is the **persistent, Git-backed authorial workspace** for the seven-book f
 Canonical remote: **https://github.com/xApologies/MK231**. The local drop box is `%USERPROFILE%\MK231\_inbox\`, NOT part of the repository. `.gitignore` protects it. See `Executable.md` and the inbox constitution for Codex steps. The repository existed and was empty when this handoff was prepared; Codex must verify again at execution time before ingesting or pushing.
 
 **No GitHub commit or push is implied merely by producing this ZIP.** A Codex run is required to materialize files, audit and commit to the remote.
+
+Root `CONSTITUTION.md` is the primary self-contained portable chat-thread constitution. Keep it synchronized with approved changes while retaining the three independently maintained specialized constitutions. v1.1 adds reciprocal Black amplification, complementary Coherence/Decoherence, independent realm histories, the selected Yellow-neon anomaly, and source-qualified civilization detail. The Black Phoenix sheet is exploratory; the uploaded ELDRIS PDF is preserved under `provenance/sources/`.

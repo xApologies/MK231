@@ -48,3 +48,7 @@ Dwarven, conventional human and elven forms are biological branches of a single 
 - Companions are autonomous people/beings with their own cognition and desires; no free coercive control from Kira's Binding.
 - All human-scale visuals are **learned manifestations**, not a canon guarantee each native morph retains all claws, wings, horns or exact outfit shown in images.
 - Healer ranking is limited: Phoenix > Organic Primordial > Coherence Dragon > human via Binding. Do not invent relative Unicorn or every individual member's position.
+
+## v1.1 — Black Phoenix visual reference
+
+**Visual:** Black Phoenix is a hawk/fire-hawk silhouette entirely made of dynamically evolving **BLACK FLAME**. No feathers, no ordinary orange exterior fire. All six neon colors R/O/Y/G/B/V are *trapped within* flowing black fire as changing internal channels, not exterior rainbow flames or fixed stripes. Later humanoid form develops; timing OPEN. Corrected 3×3 Black Phoenix concept sheet is exploratory reference, not locked physiology.

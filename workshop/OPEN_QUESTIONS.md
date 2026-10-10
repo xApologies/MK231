@@ -36,7 +36,7 @@ All listed topics **remain unresolved** even if an assistant once proposed an an
 - Black Unicorn identity and perspective on the Eight Prophecies; how it becomes Black; form and consent.
 - Primordial cradle organization, organic/inorganic/process subtype, name and Black emergence mechanics.
 - Specific Blue Leviathan type selected for Black companion and impact of Black expression; it is **not automatically Horizon**.
-- Book V/VI possible reversal: last definitive order is **Yellow then Blue**; later author brainstorm potentially reversed them.
+- Historical Book V/VI swap brainstorm is superseded by explicit v1.1 labels: V Blue/Primordial (native Yellow), VI Violet/Leviathan (native Blue). Individual companion identities and story conflicts remain OPEN.
 - Conflict, villains, interrealm civilization politics, Black hunt pacing, culmination in White, older princess figure identity and role.
 
 ## Blue and other species art
@@ -48,5 +48,9 @@ All listed topics **remain unresolved** even if an assistant once proposed an an
 
 ## Repository
 
-- Await Codex ingestion/push; no commit SHA in this package. Confirm whether `main` is still empty at publish time.
+- Bootstrap published at 61c15595454360757e947a7fda0e7b95b8d98d2d; subsequent releases must compare against live remote main and report the actual pushed SHA.
 - If future work creates novel chapters, decide chapter-style and voice before silently imposing a fiction-wide style.
+
+## v1.1 — Remaining limits
+
+Ancient verses; exact Yellow-neon displacement, root mechanism and repair operator; realm clock correspondences and causal consistency; amplification magnitude, limits and simultaneous effects; Kira rebirth and post-Binding genetic result; fatigue, targeting, resistance, scale and range; later humanoid timing; Kitsune admissible-potential mechanism; specific conflicts; vaelum benefit rates/scoring remain OPEN. Dragon war and the Kirati label remain PROPOSED. Illustrative ages, elapsed years and rate examples do not become canon.

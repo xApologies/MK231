@@ -30,12 +30,15 @@ def check(root: Path) -> int:
         print('ERROR: bundle_manifest.json missing')
         return 1
     data = json.loads(manifest_path.read_text(encoding='utf-8'))
-    assert data['bundle_id'] == 'MK231_FULL_CUMULATIVE_LIVE_MODEL_v1.0.0'
+    assert data['bundle_id'] in {'MK231_FULL_CUMULATIVE_LIVE_MODEL_v1.0.0', 'MK231_CUMULATIVE_LIVE_MODEL_v1.1.0'}
     errors = []
     known = {e['path'] for e in data['files']}
     for e in data['files']:
         rel = Path(e['path'])
-        if rel.is_absolute() or '..' in rel.parts:
+        if rel.is_absolute() or '..' in rel.parts or any(
+            part in {'.git', '_inbox', '.mk231_staging', '_mk231_staging'}
+            for part in rel.parts
+        ):
             errors.append(f'Unsafe path in manifest: {rel}')
             continue
         f = root / rel
@@ -50,9 +53,9 @@ def check(root: Path) -> int:
         if not p.is_file():
             continue
         rel = p.relative_to(root)
-        if '.git' in rel.parts or '_inbox' in rel.parts:
-            errors.append(f'Forbidden path included: {rel}')
-        # Staging can contain its own ignored files only outside the scanned root.
+        if any(part in {'.git', '_inbox', '.mk231_staging', '_mk231_staging', '__pycache__'} for part in rel.parts):
+            continue
+        # Local ingestion and staging are excluded; the manifest may never list them.
         if str(rel).replace('\\', '/') not in known and str(rel) not in {'bundle_manifest.json', 'SHA256SUMS.txt'}:
             errors.append(f'Unexpected file, not in manifest: {rel}')
     archived = root / 'provenance' / 'MK_Fantasy_Live_Model_v0.3.0_ORIGINAL.zip'
@@ -80,12 +83,15 @@ def check(root: Path) -> int:
     else:
         errors.append('Original full v0.3.0 ZIP unavailable')
     mandated = [
-        'Executable.md', 'AGENTS.md', '.gitignore', 'README.md', 'CURRENT_LIVE_MODEL.md',
+        'CONSTITUTION.md', 'Executable.md', 'AGENTS.md', '.gitignore', 'README.md', 'CURRENT_LIVE_MODEL.md',
         'constitution/WORKSHOP_AND_WRITING.md', 'constitution/CHROMATIC_PRESENTATION.md',
         'canon/02_EIGHT_PROPHECIES_OF_MAGIC.md',
         'story/01_KIRA_AND_AFFLICTION.md', 'story/02_THE_BLACK_PROPHECY.md',
         'visuals/current/BLUE_SIX_FEMALE_LEVIATHANS_2026-10-09.png',
         'history/v0.3.0/visuals/the_horizon_leviathan_nine_cosmic_forms.png',
+        'visuals/current/BLACK_PHOENIX_INTERNAL_NEON_3X3_EXPLORATORY.png',
+        'provenance/sources/ELDRIS_MASTER_UPLOADED_2026-10-10.pdf',
+        'provenance/SEMANTIC_RECONCILIATION_v1.1.md',
     ]
     for name in mandated:
         if not (root / name).is_file():

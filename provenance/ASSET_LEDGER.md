@@ -26,3 +26,9 @@ All image files are binary-preserved. Only the explicitly chosen Horizon native 
 
 ### File integrity
 All image files are included in `bundle_manifest.json` and `SHA256SUMS.txt`. The original v0.3.0 entire ZIP is verified against its extracted historical files.
+
+## v1.1 additions
+
+- `visuals/current/BLACK_PHOENIX_INTERNAL_NEON_3X3_EXPLORATORY.png` — VISUAL REFERENCE: exploratory 3×3 black-flame hawk silhouettes with internal six-color neon; not locked species physiology.
+- `provenance/sources/ELDRIS_MASTER_UPLOADED_2026-10-10.pdf` — exact uploaded source reference; SHA-256 b202cf5ebbaf0e79e0a2e22b922a3ce6adbfe9f5bc35d8d122daa49494707bcc.
+- Exact incoming update payload and checksums retained in `provenance/releases/v1.1.0/`; initial release manifest, checksums, runbook and cumulative model retained in `provenance/releases/v1.0.0/`.

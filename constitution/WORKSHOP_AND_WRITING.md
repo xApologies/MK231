@@ -49,7 +49,7 @@ Statuses are exactly `ESTABLISHED`, `INHERITED/VERIFIED`, `PROPOSED`, `OPEN`, `S
 
 ## VI. Visual & chart protocol
 
-Use the Chromatic Editorial Workshop format in `CHROMATIC_PRESENTATION.md`. For mobile, favor concise editorial boxes, appropriately labeled color rails, clean tables, illustrated lineups, restrained headings, and narrative panels. Do not overwhelm screens with decorative, repeated colorful badges. Color can represent the realm's identity in visual art, never automatically its magic type or economic tier.
+Use the Chromatic Editorial Workshop format in `constitution/CHROMATIC_PRESENTATION.md`. For mobile, favor concise editorial boxes, appropriately labeled color rails, clean tables, illustrated lineups, restrained headings, and narrative panels. Do not overwhelm screens with decorative, repeated colorful badges. Color can represent the realm's identity in visual art, never automatically its magic type or economic tier.
 
 A selected image or variation is an **art direction reference**, not an exact canon portrait unless Ink says so. Preserve source and index for every image. Examples: Horizon Leviathan native variation #8 `Fractal Spine` is selected; new six-female Leviathan render is an exploratory sheet, not a locked humanoid anatomy.
 
@@ -65,3 +65,7 @@ A selected image or variation is an **art direction reference**, not an exact ca
 - [ ] If publishing via Codex: `_inbox` ignored, no collisions, commit SHA reported.
 
 **Workshop mantra: Pen develops · Page preserves · Ink decides.**
+
+## Portable constitution synchronization
+
+Root `CONSTITUTION.md` is the primary portable chat-thread constitution. These three specialized topic files may evolve independently, but synchronize approved changes into the self-contained root constitution on each release. Its Part D records v1.1 continuity amendments; numerical realm-time and amplification examples remain illustrative, not canon.

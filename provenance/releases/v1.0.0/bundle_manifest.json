@@ -1,0 +1,358 @@
+{
+  "bundle_id": "MK231_FULL_CUMULATIVE_LIVE_MODEL_v1.0.0",
+  "format_version": 1,
+  "date_local": "2026-10-09",
+  "repository": "https://github.com/xApologies/MK231",
+  "publication_status": "ZIP_ONLY_AWAIT_CODEX_PUSH",
+  "source_archive": "provenance/MK_Fantasy_Live_Model_v0.3.0_ORIGINAL.zip",
+  "source_v0_3_0_file_count": 33,
+  "exclusions": [
+    "bundle_manifest.json",
+    "SHA256SUMS.txt"
+  ],
+  "current_model": "CURRENT_LIVE_MODEL.md",
+  "notes": "SHA256 + length guarantee byte-for-byte initial bootstrap; changing files later requires a new release manifest.",
+  "file_count": 68,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 166,
+      "sha256": "3fd409374a5f96ae170f5b99c10059bb9ebb16d65141bdfcc62bc2ba8590a27a"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 357,
+      "sha256": "36db3f454bada23bfb7cc0f2277ec5053af754c16713fa11b67659abdddff1af"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 2254,
+      "sha256": "76170a52e9b1826cb81206fbf765746dec0dc0b8390a87ba92a4e6b0d8b228ec"
+    },
+    {
+      "path": "CODEX_RUN_PROMPT.txt",
+      "bytes": 605,
+      "sha256": "9f9e17f1962815738b70c48414c67d1e6f4ea2210c8692747808b6ad0bd49e59"
+    },
+    {
+      "path": "CURRENT_LIVE_MODEL.md",
+      "bytes": 184162,
+      "sha256": "7539edea6ea4942ac16a717342eade13694228273d784983b988f1317fa4f3fe"
+    },
+    {
+      "path": "Executable.md",
+      "bytes": 8529,
+      "sha256": "d58c9db44db9564d7797cfddc55d4862278b3f4509d4fdbfac20659e2e202594"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5859,
+      "sha256": "5796816cc9d1f60ea7de8950482a7c814d562bbfdd2f9eed8131a2d670aef6cd"
+    },
+    {
+      "path": "STATE_CURRENT.json",
+      "bytes": 4047,
+      "sha256": "a2211a7e265ecc8010aad27dfa65f37c6dd4f7859d4a32e951dcd9d12c78b34b"
+    },
+    {
+      "path": "canon/00_THE_STACK_AND_BOUNDARIES.md",
+      "bytes": 3477,
+      "sha256": "2b43c6d5f5e10278e85f70c1a13a79a143863f30b671213815309f4a3ac35e6a"
+    },
+    {
+      "path": "canon/01_COSMOLOGY_AND_SPECTRUM.md",
+      "bytes": 6532,
+      "sha256": "ed2a7d9ba5ad8fbd8e1b67beb07bfa0b03411ef326f4e405e9cdd7dfd8ca7507"
+    },
+    {
+      "path": "canon/02_EIGHT_PROPHECIES_OF_MAGIC.md",
+      "bytes": 6910,
+      "sha256": "a1a795aac389b90bfa1cf78e3c92e5aecc112385d6264c952a956a254a745492"
+    },
+    {
+      "path": "canon/03_TRANSDUCTION_VAEN_BINDINGS.md",
+      "bytes": 7526,
+      "sha256": "9a3badfe56d45a646c68f7e14c2622a713912199e657b8ae53bf46a4fdc4598c"
+    },
+    {
+      "path": "canon/04_SEVEN_REALMS_AND_POPULATIONS.md",
+      "bytes": 5388,
+      "sha256": "8200a201fe7c1433fcb956adaf52c1812b3485ab598c2a438dc979cd0a922ae2"
+    },
+    {
+      "path": "canon/05_NATIVE_RACE_MAGIC.md",
+      "bytes": 7120,
+      "sha256": "6478f1d4c8273938a574971844c373f3eb0ae57110d3f3edb4fe093d4ccebce9"
+    },
+    {
+      "path": "canon/06_BLUE_LEVIATHANS.md",
+      "bytes": 5489,
+      "sha256": "e4da165ba84e5c4eb907996f11716b069ca34e760d5ee6363f21c74cc41fb467"
+    },
+    {
+      "path": "canon/07_WORLDBUILDING_CULTURE_GEOGRAPHY.md",
+      "bytes": 5342,
+      "sha256": "1785df64b4edbf75e5862f2acf085fc26fbabed09e369d9b7aeb98b4feab8ef5"
+    },
+    {
+      "path": "constitution/CHROMATIC_PRESENTATION.md",
+      "bytes": 4701,
+      "sha256": "b534598b2284c771a79be950def97469136aacc97c564e706a9a4370c45c0b08"
+    },
+    {
+      "path": "constitution/REPOSITORY_AND_INBOX.md",
+      "bytes": 2649,
+      "sha256": "fb99fff41a170582f3595fc7815453790030bbdfa578e08799b402cdaae47063"
+    },
+    {
+      "path": "constitution/WORKSHOP_AND_WRITING.md",
+      "bytes": 7755,
+      "sha256": "486db598fd9965daca688d9fb95b70e489ddcef59fc393ebe80f76b079bfb8a1"
+    },
+    {
+      "path": "history/v0.3.0/00_READ_FIRST.md",
+      "bytes": 4884,
+      "sha256": "f5f1cf18c2916491c68f60c11895289b9115b9baece1dd02764f1bbf3bc5fc37"
+    },
+    {
+      "path": "history/v0.3.0/01_THE_STACK_AND_SEVEN_FOUNDATIONS.md",
+      "bytes": 12006,
+      "sha256": "668f38bcfd6bf5cf04470e000e923977b850c5e36203b285b734098fb46849cb"
+    },
+    {
+      "path": "history/v0.3.0/02_COSMOLOGY_COEXISTENCE_WORLD.md",
+      "bytes": 13575,
+      "sha256": "3b30031b7211524c1d9802380b247afcb92404cbc941692079dfff088155b5a9"
+    },
+    {
+      "path": "history/v0.3.0/03_SEVEN_POPULATIONS_AND_MAGIC.md",
+      "bytes": 16363,
+      "sha256": "015ca96bdf5586e540d8f7d08ce7ae862b55cffd72392e5254fb537a9bd99fab"
+    },
+    {
+      "path": "history/v0.3.0/04_KIRA_BOOKS_AND_COMPANIONS.md",
+      "bytes": 10828,
+      "sha256": "513ab4a3a0c9e2038e7b26cceae20f79d0c5b3c9a3d67b0ce1b3ab444e001adc"
+    },
+    {
+      "path": "history/v0.3.0/05_VISUAL_REFERENCE_LEDGER.md",
+      "bytes": 5852,
+      "sha256": "692e77f18e91cf1be782e741e276aa4dba01908d0c535dd6ee22bdc4e464b6d4"
+    },
+    {
+      "path": "history/v0.3.0/06_DECISIONS_SUPERSESSIONS_AND_OPEN.md",
+      "bytes": 14047,
+      "sha256": "ed451e1beb077102f5cad42eb0a123ce1a3a8a3b33b46d8b43d261f693b8a421"
+    },
+    {
+      "path": "history/v0.3.0/07_SOURCES_AND_AUTHORITY.md",
+      "bytes": 8207,
+      "sha256": "041f4fc26293b87696ea34935f465fd413932edeb8f9ecd2ccc5d78d99b3e482"
+    },
+    {
+      "path": "history/v0.3.0/08_NEW_THREAD_HANDOFF.md",
+      "bytes": 2485,
+      "sha256": "25247b7024445835e1e27c78aa25ec162193ab483cf4f4f104756a98fb8c2373"
+    },
+    {
+      "path": "history/v0.3.0/MANIFEST.json",
+      "bytes": 5556,
+      "sha256": "3a332088ba8b8f54f2ad35274363df88cf9909b8a1a7d3276da991ef8d54a6d8"
+    },
+    {
+      "path": "history/v0.3.0/MASTER_CURRENT_LIVE_MODEL.md",
+      "bytes": 81279,
+      "sha256": "f22408bd12bc4eaf3b1d77b733cfb93c34c3e5a3f6ddef2170a8ac8e87d4820d"
+    },
+    {
+      "path": "history/v0.3.0/QUICK_STATE.json",
+      "bytes": 1960,
+      "sha256": "5a05cd8318a1325dc648d84c314b894a1f6d2d32a77362a41e71ed809bdc030a"
+    },
+    {
+      "path": "history/v0.3.0/SHA256SUMS.txt",
+      "bytes": 3158,
+      "sha256": "fb5261b7646eaaee5dd4f7dc860d1e3a577e27d7bfcf7f289912fb738284e021"
+    },
+    {
+      "path": "history/v0.3.0/VISUAL_GALLERY.html",
+      "bytes": 4314,
+      "sha256": "312e845333ba702c133549db7f052df0f57f94760931074a5408ef1a039d081d"
+    },
+    {
+      "path": "history/v0.3.0/history/Seven_Domains_of_Magic_Exhaustive_Archive_v0.2.0.zip",
+      "bytes": 25692,
+      "sha256": "9388fa6fb47e522f71661776bbdedcdb8ea84f11b9327cc7bbb4459190d7e8ef"
+    },
+    {
+      "path": "history/v0.3.0/sources/MK_Fantasy_Thread_Constitution_v1.docx",
+      "bytes": 42485,
+      "sha256": "9da580800604eeb0933ea3b65b5c6aa6e453430e6dc39a7b52328e70dd50637d"
+    },
+    {
+      "path": "history/v0.3.0/sources/MK_Fantasy_Thread_Constitution_v1.pdf",
+      "bytes": 133151,
+      "sha256": "61c65496582b1af1153d34a7bf6138eadbbac1f6274fc30ca062a51ced18f1d3"
+    },
+    {
+      "path": "history/v0.3.0/sources/Naming Conventions.pdf",
+      "bytes": 67209,
+      "sha256": "263309bde8e6c9580e7e6b4cd890b859a40cf8391cd26c786196db1845809eca"
+    },
+    {
+      "path": "history/v0.3.0/visuals/IMG_6925_2.jpeg",
+      "bytes": 398487,
+      "sha256": "5cac1f7aebba05480ab76bbf50c91e5151a75133e8f5523db86e980191e1bc66"
+    },
+    {
+      "path": "history/v0.3.0/visuals/IMG_6926_1.jpeg",
+      "bytes": 262595,
+      "sha256": "3fe046e4ddbbfac9c6e9dbd57d99d6c1e1123fd0810e0b088778b07fac87a885"
+    },
+    {
+      "path": "history/v0.3.0/visuals/IMG_6930.jpeg",
+      "bytes": 396761,
+      "sha256": "00e837a52998efb2a4e8aef4f3868ecac2dd94fc41c939c8913c991031cae969"
+    },
+    {
+      "path": "history/v0.3.0/visuals/IMG_6931.png",
+      "bytes": 494211,
+      "sha256": "2c80ca460769e34f0e3b5d5422f27fda0503392a9837bdef53523e009cf4d3c1"
+    },
+    {
+      "path": "history/v0.3.0/visuals/IMG_6932.png",
+      "bytes": 564229,
+      "sha256": "d6deb43608e74d7f752d417ece17ba097c88d0be2711f8f01f4bfe2bd247a81e"
+    },
+    {
+      "path": "history/v0.3.0/visuals/fantasy_dragonborn_character_lineup.png",
+      "bytes": 2269117,
+      "sha256": "c064c598d364bb7f70cccbc083e3f954173d3d8cc10943617cb9b2bf5a709b8f"
+    },
+    {
+      "path": "history/v0.3.0/visuals/kitsune_humanoids_the_green_domain.png",
+      "bytes": 2871084,
+      "sha256": "d176859555a3144ac8c8830f410a3147dd9bbc6c2f25b8d9f473680a9442a829"
+    },
+    {
+      "path": "history/v0.3.0/visuals/nine_draconic_warrior_portraits.png",
+      "bytes": 2246214,
+      "sha256": "fc2d1a34f2bf3e4544c165a23e1b758aa3b2bca173558548cc5481f00e202095"
+    },
+    {
+      "path": "history/v0.3.0/visuals/phoenix_humanoids_concept_lineup.png",
+      "bytes": 2481651,
+      "sha256": "adf4dc139623c38a2c7df6dc8d69adc94494f2b987f5551455a5541a05a19da5"
+    },
+    {
+      "path": "history/v0.3.0/visuals/primordial_elemental_field_guide.png",
+      "bytes": 2887643,
+      "sha256": "fdf676b4a3135b878e948ce285817eb0df5e8623453dec00e2dfd181d050b50e"
+    },
+    {
+      "path": "history/v0.3.0/visuals/the_blue_domain_leviathans.png",
+      "bytes": 3132445,
+      "sha256": "ea7d19020c7eec1d51ac4f562c19c9455a479c7e21226e4169083237a575a309"
+    },
+    {
+      "path": "history/v0.3.0/visuals/the_horizon_leviathan_nine_cosmic_forms.png",
+      "bytes": 2873464,
+      "sha256": "a987d848cb13f27fe3de4f6894e941cfda995301bae80c932fc8f556b7db5aae"
+    },
+    {
+      "path": "history/v0.3.0/visuals/the_horizon_leviathan_nine_infinite_forms.png",
+      "bytes": 2655995,
+      "sha256": "5c1ecb068a2abee4b1ee9b735bb363bd4be4286049786567874dfaef664d4311"
+    },
+    {
+      "path": "history/v0.3.0/visuals/the_violet_domain_nine_unicorn_forms.png",
+      "bytes": 3158020,
+      "sha256": "634d3ebe762516ce8f3538b30fb0ea956e7c1ca9095c8657bdbf15650b161cf9"
+    },
+    {
+      "path": "history/v0.3.0/visuals/the_worldback_nine_living_landscapes.png",
+      "bytes": 3385068,
+      "sha256": "81c78df7a67def1f6d4ebfad5de0657f67f291e48b432a1331ccbb49c254cada"
+    },
+    {
+      "path": "provenance/ASSET_LEDGER.md",
+      "bytes": 4102,
+      "sha256": "e05f6e621e562b671b5ea84f574bfb5cb72542162cb4863b331cfe1db96abdc4"
+    },
+    {
+      "path": "provenance/DECISIONS_AND_SUPERSESSIONS.md",
+      "bytes": 10394,
+      "sha256": "41fc0b89152a6b6b87e384ea81458d9ee48501b7e2d56ef8d5365906660c12a1"
+    },
+    {
+      "path": "provenance/MK_Fantasy_Live_Model_v0.3.0_ORIGINAL.zip",
+      "bytes": 29437319,
+      "sha256": "b075bf483c1b74d7fe75db0c1d1e1c6fe9c03cd09d40c647cfa84e53222c717c"
+    },
+    {
+      "path": "provenance/README_HISTORY.md",
+      "bytes": 1039,
+      "sha256": "5710026fbafce8cde268f931ae907001bfb82d431fd9553191851b0d1556cdc1"
+    },
+    {
+      "path": "provenance/RELEASE_NOTES.md",
+      "bytes": 2682,
+      "sha256": "506efb4f1d209148aee42db6f09cdae903c78a4ec59ad1c2428a23eca8f8b6ea"
+    },
+    {
+      "path": "provenance/SOURCE_MAP.md",
+      "bytes": 6827,
+      "sha256": "7a3e437bd138d85a7cf0b33e7c2b463797874cd335a0d710f83d5dfc007d58d8"
+    },
+    {
+      "path": "scripts/verify_bundle.py",
+      "bytes": 4650,
+      "sha256": "911c8768d97e28d512c23a1a202eb8f77383a3d1e039ab38fd7f4ec95d4eda81"
+    },
+    {
+      "path": "story/01_KIRA_AND_AFFLICTION.md",
+      "bytes": 6447,
+      "sha256": "42e37688d34bf893ed0a243a554ac4394ceca65a40008dcabdf753b5a0e4ae4d"
+    },
+    {
+      "path": "story/02_THE_BLACK_PROPHECY.md",
+      "bytes": 7216,
+      "sha256": "848e014c6e11ac4c6a5a491e6eef3d1394eb18554d4d091c03a768398e89683d"
+    },
+    {
+      "path": "story/03_SEVEN_BOOKS_AND_COMPANIONS.md",
+      "bytes": 4326,
+      "sha256": "3094e4558495ef785ef96f1c421b333ded04b1a97a647dfc33e62a49562f6538"
+    },
+    {
+      "path": "story/04_BOOK_ONE_EVENT_SCAFFOLD.md",
+      "bytes": 4509,
+      "sha256": "2f6ff05d19df38edb47c6853dee4d6fe247f10432c8804481134e6f21058ce35"
+    },
+    {
+      "path": "visuals/GALLERY.html",
+      "bytes": 9235,
+      "sha256": "a77be3ae260874b35183f56c1610943b8d40de8522661e174509690e638be384"
+    },
+    {
+      "path": "visuals/current/BLUE_SIX_FEMALE_LEVIATHANS_2026-10-09.png",
+      "bytes": 3394227,
+      "sha256": "d8eeec519f85e6a902e6d4ab198763be6301457c7f09e117390d3ed5c510ef39"
+    },
+    {
+      "path": "workshop/CHRONOLOGY_NARRATIVE_OPEN.md",
+      "bytes": 2211,
+      "sha256": "7ff5a6d2bf832d1f935ec59fe7f48dab08bf3d72dc1857680abc0e1a8559ea1f"
+    },
+    {
+      "path": "workshop/NEW_THREAD_BOOTSTRAP.md",
+      "bytes": 2414,
+      "sha256": "ab437ef907c6444b70150aa0956d036ef44ed6bb819df49f2123e84facf7b987"
+    },
+    {
+      "path": "workshop/OPEN_QUESTIONS.md",
+      "bytes": 4601,
+      "sha256": "cbcc07b9e1f23498a74fecfc871f1dcc5873702e5d730b40453499f9eeaf363c"
+    }
+  ]
+}

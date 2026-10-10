@@ -1,0 +1,58 @@
+{
+  "version": "1.1.0",
+  "type": "semantic_delta",
+  "target": "xApologies/MK231",
+  "expected_baseline": "61c15595454360757e947a7fda0e7b95b8d98d2d",
+  "entries": [
+    {
+      "path": "CONSTITUTION.md",
+      "sha256": "eecffcd80bb53d6129262fd6cc61c4832e5fe4bf8805032b08163195ed92494c",
+      "bytes": 22307
+    },
+    {
+      "path": "Executable.md",
+      "sha256": "e278461ea654ce44840bb1110ad4fccbb979d258aca46d00d347da1047a035d2",
+      "bytes": 3593
+    },
+    {
+      "path": "README_UPDATE.md",
+      "sha256": "fb68cdb1e53a6191310e7e39a74cb4b2dbacc6f829e5f7920cb103588be5b56e",
+      "bytes": 718
+    },
+    {
+      "path": "provenance/REVERSE_DIFF_v1.1.md",
+      "sha256": "3e557dcb2d4459e6c2683747c2ec9e5c6af2cdecb32b98547217f4ce890541ca",
+      "bytes": 2115
+    },
+    {
+      "path": "sources/ELDRIS_MASTER_UPLOADED_2026-10-10.pdf",
+      "sha256": "b202cf5ebbaf0e79e0a2e22b922a3ce6adbfe9f5bc35d8d122daa49494707bcc",
+      "bytes": 129675
+    },
+    {
+      "path": "updates/01_STACK_AND_BOOKS.md",
+      "sha256": "504c87f601f1ae6447faff834e5501c31f1be35f97715ad97582a6237479cfeb",
+      "bytes": 2107
+    },
+    {
+      "path": "updates/02_PROPHECY_TIME_AND_BINDINGS.md",
+      "sha256": "b6917c63f7f8bb626d60150901e1886fc73f4bd3e61e94644dda62f8f782f7cd",
+      "bytes": 3392
+    },
+    {
+      "path": "updates/03_BOOK_ONE_BLACK_PHOENIX.md",
+      "sha256": "8238c47e7dfacaa27117f813de29e3ae96f2f7a6fbe36e97fa146ba6a559df66",
+      "bytes": 1998
+    },
+    {
+      "path": "updates/04_WORLD_AITHREN_VAELUM_ELDRIS.md",
+      "sha256": "78fa4d6eceb6231b33bc78c0ebb2a57f4032bd7928538c23ba6ad34ba2eba8f1",
+      "bytes": 3671
+    },
+    {
+      "path": "visuals/current/BLACK_PHOENIX_INTERNAL_NEON_3X3_EXPLORATORY.png",
+      "sha256": "cf343a904716549a4b3431eefd1ae5ec06fb36ca3d1aebca4f9a2bba2d7bf2a2",
+      "bytes": 2852828
+    }
+  ]
+}

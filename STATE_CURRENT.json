@@ -1,10 +1,10 @@
 {
   "project": "MK231",
-  "version": "1.0.0",
-  "date_local": "2026-10-09",
+  "version": "1.1.0",
+  "date_local": "2026-10-10",
   "title": "The Eight Prophecies of Magic",
   "repository": "https://github.com/xApologies/MK231",
-  "publication_status": "NOT_PUSHED__AWAIT_CODEX",
+  "publication_status": "GIT_RELEASE__VERIFY_REMOTE_SHA",
   "roles": {
     "Ink": "author; approves canon",
     "Pen": "creative collaborator; marks proposals",
@@ -41,22 +41,71 @@
       "Resonance",
       "Chirality"
     ],
-    "realm_order_energy": ["Red", "Orange", "Yellow", "Green", "Blue", "Violet", "White"],
-    "book_order_locked": ["Orange", "Green", "Red", "Violet", "Yellow", "Blue", "White"],
-    "book_order_late_alternative_open": ["Orange", "Green", "Red", "Violet", "Blue", "Yellow", "White"],
-    "companions_locked_order": ["Black Phoenix", "Black Kitsune", "Black Dragon", "Black Unicorn", "Black Primordial", "Black Leviathan"],
-    "blue_leviathans_selected": ["Abyssal Crown", "Tidevault", "Skyweaver", "Stormmantle", "Cloudbreaker", "Horizon Leviathan"],
+    "realm_order_energy": [
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green",
+      "Blue",
+      "Violet",
+      "White"
+    ],
+    "book_order_locked": [
+      "Red",
+      "Orange",
+      "Yellow",
+      "Green",
+      "Blue",
+      "Violet",
+      "White"
+    ],
+    "companions_locked_order": [
+      "Black Phoenix",
+      "Black Kitsune",
+      "Black Dragon",
+      "Black Unicorn",
+      "Black Primordial",
+      "Black Leviathan"
+    ],
+    "blue_leviathans_selected": [
+      "Abyssal Crown",
+      "Tidevault",
+      "Skyweaver",
+      "Stormmantle",
+      "Cloudbreaker",
+      "Horizon Leviathan"
+    ],
     "horizon_selected_image": "history/v0.3.0/visuals/the_horizon_leviathan_nine_cosmic_forms.png",
     "horizon_selected_variation": 8,
     "horizon_visual_name": "Fractal Spine",
     "blue_worldback": "REJECTED",
-    "seventh_blue_classification_required": false
+    "seventh_blue_classification_required": false,
+    "historical_book_order_v1_0": [
+      "Orange",
+      "Green",
+      "Red",
+      "Violet",
+      "Yellow",
+      "Blue",
+      "White"
+    ],
+    "native_companion_realms": [
+      "Orange",
+      "Green",
+      "Red",
+      "Violet",
+      "Yellow",
+      "Blue"
+    ]
   },
   "kira": {
     "age_years": 23,
     "species": "White-native human",
     "genetic_affliction": true,
-    "typical_afflicted_death_ages": [11,17],
+    "typical_afflicted_death_ages": [
+      11,
+      17
+    ],
     "oldest_documented_afflicted_survival_age": 37,
     "age_37_is_maximum": false,
     "adopted": true,
@@ -66,8 +115,9 @@
     "first_binding": "exceptional shared-existence Black Phoenix egg identity Binding",
     "after_first_binding_allowed": "future Bindings with Black existences only",
     "ultimate_authorial_identity": "manifestation of Black, entire neon spectrum [0,1]",
-    "companion_consent": "conscious beings independent; prehatching consent OPEN",
-    "post_binding_affliction_cure": "OPEN"
+    "companion_consent": "Independent conscious consent or guardians entrust egg/cradle Bindings; exact precursor mechanism OPEN",
+    "post_binding_affliction_cure": "OPEN",
+    "specialization": "Persistent Topology: exceptional Decoherence complementary to Phoenix Coherence; reciprocal Black amplification; limits OPEN"
   },
   "prophecy": {
     "ancient_keeper": "Unicorns",
@@ -76,17 +126,32 @@
     "event_2": "Kira binds egg's Phoenix identity, Phoenix hatches, further Black manifestations emerge across nonsynchronized realm times",
     "texts_written": false,
     "book_I_unicorn_prologue": "PROPOSED",
-    "ultimate_union_effect": "OPEN"
+    "ultimate_union_effect": "completion of magic; vague healing existence reference; exact repair operation OPEN"
   },
   "files": {
     "live_model": "CURRENT_LIVE_MODEL.md",
-    "author_constitution": "constitution/WORKSHOP_AND_WRITING.md",
+    "author_constitution": "CONSTITUTION.md",
     "color_constitution": "constitution/CHROMATIC_PRESENTATION.md",
     "visual_gallery": "visuals/GALLERY.html",
     "old_zip_exact": "provenance/MK_Fantasy_Live_Model_v0.3.0_ORIGINAL.zip",
     "original_file_count": 33,
-    "new_blue_female_sheet": "visuals/current/BLUE_SIX_FEMALE_LEVIATHANS_2026-10-09.png"
+    "new_blue_female_sheet": "visuals/current/BLUE_SIX_FEMALE_LEVIATHANS_2026-10-09.png",
+    "specialized_workshop_constitution": "constitution/WORKSHOP_AND_WRITING.md",
+    "reconciliation": "provenance/SEMANTIC_RECONCILIATION_v1.1.md"
   },
-  "source_boundaries": ["_bricked mathematics", "MK147 fantasy/world inheritance", "MK157 selective reference only", "_raeon card game"],
-  "statuses": ["ESTABLISHED", "INHERITED/VERIFIED", "PROPOSED", "OPEN", "SUPERSEDED", "VISUAL REFERENCE"]
+  "source_boundaries": [
+    "_bricked mathematics",
+    "MK147 fantasy/world inheritance",
+    "MK157 selective reference only",
+    "_raeon card game"
+  ],
+  "statuses": [
+    "ESTABLISHED",
+    "INHERITED/VERIFIED",
+    "PROPOSED",
+    "OPEN",
+    "SUPERSEDED",
+    "VISUAL REFERENCE"
+  ],
+  "baseline_commit": "61c15595454360757e947a7fda0e7b95b8d98d2d"
 }

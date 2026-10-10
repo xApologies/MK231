@@ -1,4 +1,4 @@
-# Book I / Orange — opening event scaffold
+# Book I / Red — opening event scaffold (Phoenix native Orange)
 
 **Status:** A mixture of established events and explicitly proposed editorial structure. DO NOT treat as finished chapters. Neither the Black prophecy verse nor the actual prologue dialogue exists yet.
 
@@ -35,3 +35,14 @@ PROPOSED only: make the financial stake concrete through a family ledger or visi
 ## Unwritten scene list
 
 Actual prologue, egg theft/chase/portal passage, family conversations and names, Kira's blacksmith technical action, encounter geography, consultants, actual Binding Circle execution, Phoenix's first words/personality/name/sex, first clues of Black anomalies, supernatural observers and Book I closing event all remain OPEN to author workshops.
+
+## v1.1 — Book I Red / Phoenix Orange
+
+
+Kira: 23-year-old adopted Afflicted blacksmith; usual mortality 11–17, oldest documented 37. Family has saved for rare `vaen` therapeutic Binding; no prior ordinary Bindings due to economic prioritization. Egg temporarily improves pathological skin, motivating attempted healing Binding. Post-Binding full genetic outcome OPEN.
+
+**Visual:** Black Phoenix is a hawk/fire-hawk silhouette entirely made of dynamically evolving **BLACK FLAME**. No feathers, no ordinary orange exterior fire. All six neon colors R/O/Y/G/B/V are *trapped within* flowing black fire as changing internal channels, not exterior rainbow flames or fixed stripes. Later humanoid form develops; timing OPEN. Corrected 3×3 Black Phoenix concept sheet is exploratory reference, not locked physiology.
+
+**Complementary Persistent Topology:** Phoenix specializes exceptionally in **Coherence**, healing/stabilization and native rebirth. Kira specializes exceptionally in **Decoherence**, destabilizing persistence. They are complementary, not identical clones, and receive reciprocal Black amplification. Ordinary Decoherence is known but generally weak/inefficient; stabilizing topology is generally easier than destabilizing it. Black-amplified Kira's Decoherence can target ELDRIS persistent recursive closure; does not mean automatic victory over all ELDRIS. Fatigue, targeting, resistance, scale, range OPEN. Kira becomes an extraordinary `helkir` (lowercase), a respected healing role, not a conventional Summoner. Phoenix native rebirth does NOT automatically grant Kira personal rebirth; OPEN.
+
+**Book I location:** Remains initially in White Material Realm, developing Kira's focused coherence/decoherence toolkit in established dungeon `aithren` communities. Phoenix realm Orange may be visited later in Book I. No Kitsune power yet; later Book II Orange/Kitsune Green introduces admissible-potential realization via Resolution/Bandwidth/Chirality; exact mechanism OPEN.

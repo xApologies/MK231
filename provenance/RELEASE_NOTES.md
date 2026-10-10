@@ -26,3 +26,7 @@
 - This ZIP was created locally for download and **not pushed to GitHub**.
 - No new canonical prophecy speeches, source repository revisions, or exact Black-neon algebra were invented.
 - No old source v0.3 files were silently edited or removed.
+
+## 1.1.0 — Semantic reconciliation — 2026-10-10
+
+Reconciled against live main 61c15595454360757e947a7fda0e7b95b8d98d2d. Added primary root constitution, corrected book labels independently of native realms, reciprocal Black amplification, Coherence/Decoherence asymmetry, independent realm histories, selected Yellow instability, expanded civilization/aithren/vaelum/ELDRIS distinctions, exploratory Phoenix image and exact uploaded source PDF. Historical originals retained. See SEMANTIC_RECONCILIATION_v1.1.md for every decision and information gaps. The incoming package has four topical chapters despite its runbook saying five; Part D is audited separately.

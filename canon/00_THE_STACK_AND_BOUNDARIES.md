@@ -31,3 +31,19 @@ The author has used **Conceive → Shape → Hold → Resolve → Manifest → R
 - `provenance/DECISIONS_AND_SUPERSESSIONS.md`: exact conflicts and clarifications.
 - `provenance/SOURCE_MAP.md`: verified source files and inheritance restrictions.
 - `constitution/WORKSHOP_AND_WRITING.md`: editorial collaboration rules, not novel ontology.
+
+## v1.1 — Five-layer author/world framework (ESTABLISHED)
+
+L0 Mathematics/physics: Genesis mathematics, chirality fabric, topology, Resolution, Bandwidth, Closure and Persistence from `_bricked`. Exclude its SEA/SHELL/NEXUS/STATE game-computer architecture.
+L1 Fantasy engine: Seven Realms, magical races, Transduction, Binding Circles, shaping, sigils, `vaen`, identity.
+L2 World engine: **environmental engine** (geography, rivers, forests, mountains, ecology, storms, dungeons) plus **civilization engine** (settlements, economy, agriculture, institutions, culture). White civilization is a chosen romanticized 17th/18th-century preindustrial implementation with engineered stone-block infrastructure.
+L3 Character engine: biology, identities, motivations, agency, abilities and relationships.
+L4 Story engine: chronology, plot, causality, conflicts, narrative development.
+The stack is both an author-level method and a reusable high-fantasy framework, not an in-world rank system.
+
+## v1.1 — Source boundaries
+
+`_bricked`: L0 mathematical reference, preserve OPEN mathematics.
+MK147: primary L1/L2 inherited fantasy engine, culture and civilization.
+MK157: selective explicitly approved refinements only (e.g. Yellow-neon instability, ELDRIS), NOT old plots, Valnak, rewards or character events.
+MK231: new cosmology, seven-book narrative, Kira and the Eight Prophecies. No source repo clones.

@@ -71,3 +71,9 @@ Mark `maybe`, `I think`, “who knows,” author brainstorming and metaphor as O
 ## E. Future change records
 
 For each new author turn update: date/time as known; source turn or citation; exact newly decided field; affected files; previous value (if superseded); OPEN issues created/closed; visual ref provenance; Git commit SHA if and only if pushed. Keep this cumulative.
+
+## F. v1.1 explicit approved decisions — 2026-10-10
+
+The historical records above are retained. Their v1.0 O/G/R/V/Y/B/W **book labels** and pending V/VI swap discussion are SUPERSEDED: current book labels are R/O/Y/G/B/V/W, companion acquisition remains Phoenix/Kitsune/Dragon/Unicorn/Primordial/Leviathan, and native realms remain O/G/R/V/Y/B. D053 and direct supersession item 15 are historical pending decisions, resolved by this explicit update; neither controls current book labels. No fictional native identity was recolored.
+
+New approval adds reciprocal amplification, complementary Phoenix Coherence/Kira Decoherence, the selected Yellow anomaly/restoration premise, full L2 engines and inherited civilization/ELDRIS/aithren/vaelum distinctions. Existing core age/Affliction/egg/agency/history remains intact. Exact decision IDs 11-01 through 11-51 and final owning sections are recorded in [SEMANTIC_RECONCILIATION_v1.1.md](SEMANTIC_RECONCILIATION_v1.1.md). This supersession changes only explicitly approved dimensions. OPEN and PROPOSED qualifications in that report are preserved.

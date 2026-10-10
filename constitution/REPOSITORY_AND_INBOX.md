@@ -32,3 +32,7 @@ The screenshot shows a new Windows `MK231` folder containing `_inbox`. Earlier s
 - `Executable.md` must state whether it is full bootstrap or delta, target branch, status of `_inbox`, expected paths, and verification checks.
 - Before updating Git, compare to current HEAD, retain `history` and `provenance`, and communicate conflicts. Never use `git push --force`.
 - The tools may clone/commit when the author authorizes but no assistant should claim success without the remote commit SHA.
+
+## v1.1 publication contract
+
+Root `CONSTITUTION.md` is mandatory, self-contained and linked from README/AGENTS. Preserve newer root edits and synchronize approved specialized changes. Each semantic release compares every substantive incoming decision against live remote main, records destinations/statuses and unresolved gaps in a reconciliation report, validates assets/links/checksums, and reports the actual remote commit SHA. `_inbox` and staging remain ignored and untracked. Historical source records are immutable.

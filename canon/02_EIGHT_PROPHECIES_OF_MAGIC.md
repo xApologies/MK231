@@ -51,8 +51,14 @@ A powerful ancient unicorn speaks a prophecy associated with the creation of the
 
 ## Narrative rule
 
-The Eight Prophecies are a **cross-book throughline**, not an instruction to give each book one different prophecy. The first seven describe fundamentals of magic; the eighth concerns Kira's unusual existence and the union of all six chromatic races around the White-native protagonist. Unicorns are keepers of this ancient lore; they may not understand it fully. The seven books follow Orange → Green → Red → Violet → Yellow → Blue → White.
+The Eight Prophecies are a **cross-book throughline**, not an instruction to give each book one different prophecy. The first seven describe fundamentals of magic; the eighth concerns Kira's unusual existence and the union of all six chromatic races around the White-native protagonist. Unicorns are keepers of this ancient lore; they may not understand it fully. Book labels now follow Red → Orange → Yellow → Green → Blue → Violet → White; native realm identities and companion acquisition order are unchanged (see story/03_SEVEN_BOOKS_AND_COMPANIONS.md). The former labels are superseded, not reassigned native basins.
 
 ## Source and revision guardrail
 
 The initial user screenshot originally listed `Six Realms` and `Covenant Garden`; these are **SUPERSEDED**. The user explicitly corrected that the Seven Realms describes **existence**, and that the Eight Prophecies collectively form the framework of magic, not a system confined to the seven worlds. Avoid calling them “seven realms of magical power,” “seven magic schools,” or “one prophecy assigned to each race.”
+
+## v1.1 — Black Prophecy and interpretation
+
+The Eight Prophecies are **prophecies of magic itself**, not merely of magic within seven realms. First Prophecy Seven Realms concerns the sevenfold structure of existence (six chromatic structural basins and White superposition). The eighth Black Prophecy concerns Kira, manifestation of the complete Black neon [0,1] spectrum and eventual **completion of magic** through six independent shared-existence relationships. It contains a vague reference to **healing existence itself**; removal of the monster threat is a consequence, not a mandate to exterminate ELDRIS. The actual ancient verses are OPEN. Unicorns preserve the prophecies, interpret them more deeply, and guide Kira in later books.
+
+The author **explicitly selected** MK157's high/displaced Yellow-neon premise for MK231: Yellow abnormality destabilizes a Starscape's White superposition and contributes to Genesis collapse, storms and ELDRIS. No exact neon numbers, root mechanism or repair operator are locked; do not inherit MK157's original resolution scene.

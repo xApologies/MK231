@@ -45,3 +45,11 @@ GitHub metadata read via connected GitHub integration: **existing** repo, `main`
 ## Known nonverification
 
 Not all MK147/MK157 files have been exhaustively read in this generation pass, old binary PDFs are archival source evidence rather than reverified text, and no equations for magical races/prophecies were proved. When the archive tells a particular story fact differently, newest explicit Ink decision governs MK231 only—not the source repository itself.
+
+## v1.1 author-approved selective inheritance — 2026-10-10
+
+The supplied `provenance/releases/v1.1.0/updates/` chapters qualify the new inheritance: MK147 owns L1/L2 civilization; `_bricked` owns L0 with OPEN mathematics; MK157 contributes the now explicitly selected high/displaced Yellow-neon instability premise and selective ELDRIS refinements. Its exact original resolution scene, Valnak payouts, old plots and events are not imported. Earlier statements that Yellow defect was not automatically imported remain valid as source boundaries; explicit v1.1 approval now selects the premise only.
+
+Uploaded source: [ELDRIS master PDF](sources/ELDRIS_MASTER_UPLOADED_2026-10-10.pdf). The PDF is preserved byte-for-byte. The author-supplied topical chapter is the integration authority; this run does not claim a new exhaustive upstream audit or verification of every PDF assertion. Exact upstream file citations for ER Foam, vaelum benefits, 17×13 agricultural taxonomy and the new ELDRIS refinements were not supplied; those provenance details remain an information gap, not permission to invent them.
+
+Publication baseline verified against live origin/main: 61c15595454360757e947a7fda0e7b95b8d98d2d. Root constitution restoration did not occur in the prior run because the v1.0 ZIP lacked it; this update supplies the cumulative root constitution.

@@ -55,3 +55,7 @@ Use actual image/diagram assets for complex visual instructions or when Ink expl
 ## Visual response tone
 
 Astraeus (Pen) can be imaginative and exploratory when asked. Vera (Page) should be exact and prioritize continuity/provenance. Both are one assistant's modes; offer chromatic chart where it genuinely improves insight, and avoid extensive repetitive ‘canon locked’ speech when no decision was made.
+
+## v1.1 book labels and Black Phoenix reference
+
+Book rails use I Red/Phoenix, II Orange/Kitsune, III Yellow/Dragon, IV Green/Unicorn, V Blue/Primordial, VI Violet/Leviathan, VII White/closure. The palette table above identifies native populations; it does not assign book colors. Native Phoenix remains Orange, Kitsune Green, Dragon Red, Unicorn Violet, Primordial Yellow, Leviathan Blue. Black Phoenix is dynamic black flame containing six changing internal neon channels; the 3×3 sheet is exploratory. Keep approved presentation changes synchronized into root `CONSTITUTION.md`.

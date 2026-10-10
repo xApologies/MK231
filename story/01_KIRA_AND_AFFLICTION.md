@@ -43,3 +43,7 @@ Kira’s intention is survival; a rare object that appears to solve the family's
 ## Explicit OPEN decisions
 
 Adoption history; family member names/number and interpersonal dynamics; exact genetic lesion and progression; current body appearance beyond previous selected references; egg examination location/person and transaction cost; therapeutic recipe; whether Kira would have survived without Binding; any partial/permanent post-Binding healing; timing of Phoenix awareness/consent; full first chapter calendar; how and when the family learns the cosmic implications.
+
+## v1.1 — Starting condition and post-Binding limit
+
+Kira: 23-year-old adopted Afflicted blacksmith; usual mortality 11–17, oldest documented 37. Family has saved for rare `vaen` therapeutic Binding; no prior ordinary Bindings due to economic prioritization. Egg temporarily improves pathological skin, motivating attempted healing Binding. Post-Binding full genetic outcome OPEN.

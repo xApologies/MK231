@@ -77,3 +77,11 @@ The placement of unicorns or nonorganic primordials in a total ranking was not e
 - **Kira Black companion Binding** = exceptional shared existence between independent beings, permits shared capabilities, and acts as an anchor for cross-realm compatibility when she is present.
 - **Black Phoenix egg** = not a disposable healing reagent, even if Kira and examiners initially misidentify it.
 - **Realm crossing via Rainbow Road** = not proven just because `_bricked` uses Rainbow Road for information transfer; interrealm organism traversal remains separate design work.
+
+## v1.1 — Reciprocal universal amplification
+
+Kira gains selected abilities from each companion, while each companion's native magical expression is amplified by the shared existence. This is not a conventional human Augmenter Binding. Orange-native Phoenix becoming Violet-*comparable in effective capability* is ILLUSTRATIVE, not a native-color reassignment, rank lock or multiplier. Amplification magnitude, limits and simultaneous effects OPEN.
+
+## v1.1 — Complementary Persistent Topology
+
+**Complementary Persistent Topology:** Phoenix specializes exceptionally in **Coherence**, healing/stabilization and native rebirth. Kira specializes exceptionally in **Decoherence**, destabilizing persistence. They are complementary, not identical clones, and receive reciprocal Black amplification. Ordinary Decoherence is known but generally weak/inefficient; stabilizing topology is generally easier than destabilizing it. Black-amplified Kira's Decoherence can target ELDRIS persistent recursive closure; does not mean automatic victory over all ELDRIS. Fatigue, targeting, resistance, scale, range OPEN. Kira becomes an extraordinary `helkir` (lowercase), a respected healing role, not a conventional Summoner. Phoenix native rebirth does NOT automatically grant Kira personal rebirth; OPEN.

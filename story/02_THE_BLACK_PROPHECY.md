@@ -46,8 +46,19 @@ Unicorns preserve ancient prophecy lore. Other parties may recognize a rare Blac
 
 ## Seven-book scaffold
 
-The prior explicit sequence is **Orange / Green / Red / Violet / Yellow / Blue / White**. Late oral brainstorming considered a Leviathan-before-Primordial companion order but did not expressly lock a revised book order. Preserve both in the decision ledger; do not silently reorder Book V and VI in a repo migration.
+The historical v1.0 book labels were **Orange / Green / Red / Violet / Yellow / Blue / White**. The explicit v1.1 labels are **Red / Orange / Yellow / Green / Blue / Violet / White**, with Phoenix → Kitsune → Dragon → Unicorn → Primordial → Leviathan acquisition unchanged. The previous swap brainstorm is historical; see the decision ledger for the explicit supersession.
 
 ## Exact things NOT YET written
 
 No prophecy verse; no unicorn name; no canonical visions; no arbitrary 'unwritten word'; no precise circle geometry; no black energy damage formula; no future antagonist or throne decree; no completed mastery ceiling; no required Black Leviathan morphology; no settled interrealm time operator. These remain OPEN.
+
+## v1.1 — Black Prophecy
+
+The Eight Prophecies are **prophecies of magic itself**, not merely of magic within seven realms. First Prophecy Seven Realms concerns the sevenfold structure of existence (six chromatic structural basins and White superposition). The eighth Black Prophecy concerns Kira, manifestation of the complete Black neon [0,1] spectrum and eventual **completion of magic** through six independent shared-existence relationships. It contains a vague reference to **healing existence itself**; removal of the monster threat is a consequence, not a mandate to exterminate ELDRIS. The actual ancient verses are OPEN. Unicorns preserve the prophecies, interpret them more deeply, and guide Kira in later books.
+
+The author **explicitly selected** MK157's high/displaced Yellow-neon premise for MK231: Yellow abnormality destabilizes a Starscape's White superposition and contributes to Genesis collapse, storms and ELDRIS. No exact neon numbers, root mechanism or repair operator are locked; do not inherit MK157's original resolution scene.
+
+## v1.1 — First Binding and emergence
+
+Phoenixes combine energies to create Black Egg; powerful unicorn prophesies; egg stolen and lost into White; Kira finds egg, temporarily heals affected hands, attempts a therapeutic `vaen` Binding, instead binds independent Black Phoenix, which hatches. That first shared-existence Binding activates Black realizations across other realms. Kira can no longer make ordinary shaping Bindings, only Black companion shared-existence Bindings.
+Acquisition: Phoenix egg; Kitsune already conscious (voluntary); Dragon egg; Unicorn already conscious (voluntary); Primordial Genesis crystal-lattice cradle; Leviathan egg. Three literal eggs, one cradle analogue, two conscious agreements. Independent companion agency and guardianship matter. Kira must earn trust/service, not demand compliance. Dragon war and 'Kirati' label are PROPOSED only.
