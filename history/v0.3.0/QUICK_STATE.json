@@ -1,0 +1,91 @@
+{
+  "archive_version": "0.3.0",
+  "series": "MK Fantasy / Dread Rainbow — new seven-book series",
+  "as_of": "2026-10-09",
+  "structure": {
+    "stack_layers": [
+      "mathematics",
+      "fantasy",
+      "world",
+      "character",
+      "story"
+    ],
+    "basin_scale": {
+      "red": "1/7",
+      "orange": "2/7",
+      "yellow": "3/7",
+      "green": "4/7",
+      "blue": "5/7",
+      "violet": "6/7"
+    },
+    "realm_composition": {
+      "dominant": "80%",
+      "supporting": "20% of other five",
+      "secondary_equal_distribution": "working example 4% each"
+    },
+    "white": "six-way superposition; equal example 1/6 each"
+  },
+  "population_by_realm": {
+    "red": "dragon",
+    "orange": "phoenix",
+    "yellow": "primordial",
+    "green": "kitsune",
+    "blue": "leviathan",
+    "violet": "unicorn",
+    "white": "humanity"
+  },
+  "book_order": [
+    "Orange",
+    "Green",
+    "Red",
+    "Violet",
+    "Yellow",
+    "Blue",
+    "White"
+  ],
+  "companion_order": [
+    "Black Phoenix",
+    "Kitsune",
+    "Dragon",
+    "Unicorn",
+    "Primordial",
+    "Leviathan"
+  ],
+  "blue_selected": [
+    {
+      "original_number": 1,
+      "name": "Abyssal Crown"
+    },
+    {
+      "original_number": 3,
+      "name": "Tidevault"
+    },
+    {
+      "original_number": 5,
+      "name": "Skyweaver"
+    },
+    {
+      "original_number": 6,
+      "name": "Stormmantle"
+    },
+    {
+      "original_number": 8,
+      "name": "Cloudbreaker"
+    },
+    {
+      "original_number": 13,
+      "name": "Horizon Leviathan",
+      "selected_visual": {
+        "image": "the_horizon_leviathan_nine_cosmic_forms.png",
+        "variation_number": 8,
+        "variation_label": "Fractal Spine"
+      }
+    }
+  ],
+  "blue_seventh": "OPEN",
+  "blue_rejected": [
+    "Worldback (#10)"
+  ],
+  "unicorn_identity": "Unified mastery of Seven Foundations; do not redefine without author change",
+  "status": "conversation workshop reconciled; repositories not modified"
+}

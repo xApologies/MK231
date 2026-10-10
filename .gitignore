@@ -1,0 +1,25 @@
+# MK231 local ingestion dropbox — never commit
+_inbox/
+**/_inbox/
+
+# Staging/scratch
+.mk231_staging/
+_mk231_staging/
+.tmp/
+tmp/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.orig
+
+# Security and local developer state
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Do not ignore historical or release ZIPs elsewhere; those are intentional provenance.
